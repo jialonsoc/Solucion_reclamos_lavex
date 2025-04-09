@@ -1,0 +1,13 @@
+Horas Registradas:
+Marzo:
+-   Reunión Informativa: 30 minutos
+- (29/03) Creación Informe y Mockups: 2 Horas
+Abril:
+- (02/04) Avance en códigos formulario: 2 Horas
+- (04/04) Reunión y recolección de datos: 2 Horas
+- (05/04) Creación de Visuales y Lógicas de los problemas: 1 Hora
+- (05/04) Análisis de Datos Fintoc: 1 Hora, 30 minutos
+- (06/04) Lógica de Automatización de Whatsapp Business: 1 Hora
+- (06/04) Redacción Informe: 1 Hora
+
+
